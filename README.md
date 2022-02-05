@@ -1,2 +1,3 @@
-# Python_symbol
-Draw a python logo by using Turtle module in python programming language. 
+# My Drawing 
+here I draw some picture by using python programming language.. 😉
+
